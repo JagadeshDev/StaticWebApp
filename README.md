@@ -1,0 +1,2 @@
+# StaticWebApp
+Static Web app
